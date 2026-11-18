@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "tecnologia_id": 1,
+        "titulo": "Primeiros passos com PHP",
+        "descricao": "Sintaxe básica, variáveis, condicionais, laços e funções. Termina com um script que processa dados de um formulário.",
+        "nivel": "iniciante",
+        "ordem": 1
+    },
+    {
+        "id": 2,
+        "tecnologia_id": 2,
+        "titulo": "Primeiros passos com JavaScript",
+        "descricao": "Variáveis, funções, arrays e objetos, além de manipulação básica da página no navegador.",
+        "nivel": "iniciante",
+        "ordem": 1
+    },
+    {
+        "id": 3,
+        "tecnologia_id": 3,
+        "titulo": "Primeiros passos com React",
+        "descricao": "Componentes, props, estado com useState e renderização de listas. Termina com um contador e uma lista de tarefas.",
+        "nivel": "iniciante",
+        "ordem": 1
+    },
+    {
+        "id": 4,
+        "tecnologia_id": 4,
+        "titulo": "Primeiros passos com SQL",
+        "descricao": "SELECT, WHERE, ORDER BY, INSERT, UPDATE e DELETE, além de junções simples entre tabelas.",
+        "nivel": "iniciante",
+        "ordem": 1
+    },
+    {
+        "id": 5,
+        "tecnologia_id": 5,
+        "titulo": "Primeiros passos com Git",
+        "descricao": "Criar um repositório, fazer commits, criar branches e enviar as mudanças para um repositório remoto.",
+        "nivel": "iniciante",
+        "ordem": 1
+    },
+    {
+        "id": 6,
+        "tecnologia_id": 6,
+        "titulo": "Como começar: lógica de programação",
+        "descricao": "Raciocínio lógico, algoritmos, variáveis, condicionais e laços. Comece por aqui antes de escolher uma linguagem.",
+        "nivel": "iniciante",
+        "ordem": 0
+    }
+]

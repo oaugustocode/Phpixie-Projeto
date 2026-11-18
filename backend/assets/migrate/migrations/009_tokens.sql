@@ -1,0 +1,6 @@
+CREATE TABLE tokens (
+    series TEXT PRIMARY KEY,
+    userId INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    challenge TEXT NOT NULL,
+    expires INTEGER NOT NULL
+)

@@ -1,0 +1,5 @@
+vendor/
+.env
+tools/
+assets/database/
+web/bundles/

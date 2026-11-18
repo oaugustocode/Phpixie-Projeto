@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nome": "PHP",
+        "categoria": "linguagem",
+        "resumo": "Linguagem de script executada no servidor, muito usada para gerar páginas e APIs web.",
+        "url_documentacao": "https://www.php.net/manual/pt_BR/"
+    },
+    {
+        "id": 2,
+        "nome": "JavaScript",
+        "categoria": "linguagem",
+        "resumo": "Linguagem da web. Roda no navegador e, com Node.js, também no servidor.",
+        "url_documentacao": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+        "id": 3,
+        "nome": "React",
+        "categoria": "framework",
+        "resumo": "Biblioteca JavaScript para criar interfaces a partir de componentes reutilizáveis.",
+        "url_documentacao": "https://react.dev/"
+    },
+    {
+        "id": 4,
+        "nome": "SQL",
+        "categoria": "linguagem",
+        "resumo": "Linguagem para consultar e manipular dados em bancos relacionais, como SQLite, MySQL e PostgreSQL.",
+        "url_documentacao": "https://www.sqlite.org/lang.html"
+    },
+    {
+        "id": 5,
+        "nome": "Git",
+        "categoria": "ferramenta",
+        "resumo": "Sistema de controle de versão que registra as mudanças do código ao longo do tempo.",
+        "url_documentacao": "https://git-scm.com/book/pt-br/v2"
+    },
+    {
+        "id": 6,
+        "nome": "Lógica de Programação",
+        "categoria": "conceito",
+        "resumo": "Base para qualquer linguagem: pensar um problema, quebrá-lo em passos e representar esses passos com variáveis, condições e repetições.",
+        "url_documentacao": null
+    }
+]

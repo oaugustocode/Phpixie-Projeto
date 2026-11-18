@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "tecnologia_id": 6,
+        "titulo": "Lógica de Programação (playlist)",
+        "url": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV",
+        "canal": "Gustavo Guanabara",
+        "descricao": "Playlist do canal Gustavo Guanabara sobre lógica de programação."
+    }
+]
